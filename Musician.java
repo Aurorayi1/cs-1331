@@ -1,4 +1,3 @@
-//I worked on the homework assignment alone, using only course materials.
 public class Musician {
     // private fields and associated getter methods
     private String name;
