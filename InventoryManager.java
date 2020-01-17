@@ -1,11 +1,4 @@
-//I worked on the homework assignment alone, using only course materials.
 import java.util.Scanner;
-
-/**
- * The InventoryManager.
- * @author jdierberger3 and <Wenye Yi>
- * @version 1331
- */
 public class InventoryManager {
 
     /*

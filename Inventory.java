@@ -1,8 +1,3 @@
-/**
- * An Inventory.
- * @author jdierberger3 and <your username here>
- * @version 1331.
- */
 public class Inventory {
     private Item[] contents = new Item[4];
     // TODO : Add an Item[] instance variable called contents.
