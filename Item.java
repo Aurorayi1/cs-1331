@@ -1,10 +1,4 @@
 import java.util.Random;
-
-/**
- * An Item.
- * @author jdierberger3 and <your username here>
- * @version 1331
- */
 public class Item {
 
     /*
